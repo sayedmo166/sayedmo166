@@ -38,10 +38,10 @@
 
 ### 📬 Contact Me:
 <p align="center">
-  <a href="mailto:sayedmo166@gmail.com">
+  <a href="mailto:sm4679313@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://www.linkedin.com/in/sayedmo166">
+  <a href="https://www.linkedin.com/in/sayed-mohamed-aa7a04212/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://github.com/sayedmo166">
