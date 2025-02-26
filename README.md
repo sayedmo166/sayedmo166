@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Sayed Mohamed 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Creator;Firebase+Expert;Passionate+about+Clean+Code;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Creator;Firebase+Expert;Passionate+about+Clean+Code;Always+Learning+New+Things!;Professional+in+handling+all+kinds+of+APIs!" alt="Typing SVG" />
 </p>
 
 ---
