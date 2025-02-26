@@ -8,8 +8,7 @@
 
 ### 💡 About Me:
 - 🎯 **Flutter Certified Developer** with expertise in **Dart, Firebase, Bloc, and RESTful APIs**.  
-- 🚀 Founder of a **Mobile App Development Team**, delivering high-quality applications.  
-- 💻 Worked on projects like **Islamic apps, movie apps, news apps, e-commerce, and ToDo apps**.  
+- 🚀 Founder of a **Mobile App Development Team**, delivering high-quality applications.   
 - 🎨 Passionate about **UI/UX design, responsive layouts, and performance optimization**.  
 - 📚 Always exploring new **Flutter techniques and architectural patterns (MVVM)**.  
 
