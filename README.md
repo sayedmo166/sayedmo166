@@ -22,7 +22,7 @@
 - **Networking:** ![Dio](https://img.shields.io/badge/Dio-0085FF?style=flat)
 - **Tools & IDEs:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
----
+-----
 
 ### 🔥 GitHub Stats:
 <p align="center">
