@@ -15,31 +15,6 @@
 
 ---
 
-## 💫 About Me
-
-```dart
-class SayedMohamed extends FlutterDeveloper {
-  String name = "Sayed Mohamed";
-  String role = "Senior Flutter Developer & Mobile Architect";
-  List<String> expertise = [
-    "Flutter & Dart Development",
-    "Firebase Integration & Backend",
-    "State Management (Bloc, Provider, Riverpod)",
-    "Clean Architecture & MVVM",
-    "RESTful APIs & GraphQL",
-    "Performance Optimization",
-    "UI/UX Implementation"
-  ];
-  
-  String currentFocus = "Building scalable mobile applications";
-  String motto = "Code with passion, deliver with precision";
-  
-  Map<String, String> lifeGoals = {
-    'mission': 'Crafting exceptional mobile experiences',
-    'vision': 'Bridging design and functionality seamlessly',
-    'passion': 'Continuous learning and innovation'
-  };
-}
 ```
 
 ---
