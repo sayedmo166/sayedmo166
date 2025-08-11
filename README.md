@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sayed Mohamed</h1>
-<h3 align="center">Mid-Level Flutter Developer | Mobile App Creator | Firebase Expert</h3>
+<h3 align="center">Mid-Level Flutter Developer | Mobile App Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Flutter+Developer;Firebase+Specialist;Clean+Code+Advocate;API+Integration+Pro;Always+Learning!" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 ---
 
 ## 💡 About Me
-- 💼 **Mid-Level Flutter Developer** with 6+ years in mobile development (4+ in Flutter).
+- 💼 **Mid-Level Flutter Developer** with **2 years** of hands-on experience in Flutter & mobile development.
 - 🚀 Founder of a **Mobile App Development Team** delivering real-world solutions.
 - 🎯 Skilled in **Dart, Flutter, Firebase, Bloc, and RESTful APIs**.
 - 🎨 Passionate about **UI/UX design** and **performance optimization**.
